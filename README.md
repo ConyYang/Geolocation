@@ -13,5 +13,4 @@ You can run geolocationApp.html to see the detailed results.
 
 ### Demo
 Here is a short video to briefly show this project.
-[![Demo Here](assets/demo.png)]
-(https://youtu.be/vqgPzI8-uqE)
+[![Demo Here](assets/demo.png)](https://youtu.be/vqgPzI8-uqE)
